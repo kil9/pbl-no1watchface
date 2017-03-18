@@ -1,0 +1,24 @@
+{
+    "author": "krieiter@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "no.1-watchface",
+    "pebble": {
+        "displayName": "NO.1 Watchface",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "5000a908-3d91-46c7-82ad-09b3cf5f32be",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
